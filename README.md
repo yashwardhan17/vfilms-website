@@ -2,6 +2,12 @@
 
 A modern, responsive single-page web application built with Next.js 14, featuring a stunning homepage and functional contact form with API integration.
 
+## 🌐 Live Project
+
+- 🔗 **Website:** [https://vfilms-website-dvcato5eo-yashwardhans-projects-0e76289e.vercel.app](https://vfilms-website-dvcato5eo-yashwardhans-projects-0e76289e.vercel.app)
+- 🗂️ **GitHub Repository:** [https://github.com/yashwardhan17/vfilms-website](https://github.com/yashwardhan17/vfilms-website)
+- 📬 **Postman API Collection:** [vfilms-website.postman_collection.json](./vfilms-website.postman_collection.json)
+
 ## 🎨 Design Features
 
 - **Premium Aesthetic**: Cream background with orange accents matching V Films brand identity
