@@ -212,8 +212,8 @@ This project demonstrates:
 ## 📧 Contact
 
 For questions about this project:
-- Email: vernita@varnanfilms.co.in
-- Phone: +91 98736 84567
+- Email: yashwardhan.1717@gmail.com
+- Phone: +91 9771746363
 
 ## 📄 License
 
